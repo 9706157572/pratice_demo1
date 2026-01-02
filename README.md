@@ -1,4 +1,4 @@
 # pratice_demo1
 this is my first git repository.
 <br>
-author -neelanjana
+author -neelanjana choudhury 
